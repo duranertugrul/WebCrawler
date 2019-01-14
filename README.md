@@ -7,7 +7,9 @@ A Java based web crawler to get a list of link from the web pages in desired lev
 This program is developed with Java8 . It is a download-and-run program with couple of changes according if required by the user.
 
 
-### Dependencies There are two dependencies . They are org.jsoup and com.google.guava.By means of com.google.guava, I get domain name and By means of org.jsoup I get the documents.
+### Dependencies 
+
+There are two dependencies . They are org.jsoup and com.google.guava.By means of com.google.guava, I get domain name and By means of org.jsoup I get the documents.
 
 
 #### Status
